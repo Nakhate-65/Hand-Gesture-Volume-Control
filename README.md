@@ -1,5 +1,7 @@
 
 
+
+
 # Hand Gesture Volume Control
 
 A **Hand Gesture Volume Control** system allows users to control their device's volume using simple hand gestures. Using a camera and computer vision, the system detects the user's hand and tracks the distance between the thumb and index finger. Increasing the distance raises the volume, while decreasing it lowers the volume.
